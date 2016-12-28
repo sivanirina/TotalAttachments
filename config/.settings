@@ -1,0 +1,18 @@
+{
+    "projectName": "TotalAttachments",
+    "username": "iryna@zasikan.com",
+    "id": "4c923380-cd26-11e6-a1d2-f301d57c9382",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://zasikanlight-dev-ed.my.salesforce.com",
+    "workspace": "C:\\Projects\\GitHub\\Salesforce\\",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "CustomObject",
+        "StaticResource"
+    ]
+}
