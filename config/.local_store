@@ -21,7 +21,7 @@
         "id": "01p2400000DfytcAAB",
         "lastModifiedById": "00524000001SdIaAAK",
         "lastModifiedByName": "Iryna Zasikan",
-        "lastModifiedDate": "2016-12-28T12:46:35.000Z",
+        "lastModifiedDate": "2016-12-29T11:07:57.000Z",
         "manageableState": "unmanaged",
         "type": "ApexClass",
         "mmState": "clean"
@@ -63,7 +63,7 @@
         "id": "01p2400000DU6n9AAD",
         "lastModifiedById": "00524000001SdIaAAK",
         "lastModifiedByName": "Iryna Zasikan",
-        "lastModifiedDate": "2016-12-08T15:56:30.000Z",
+        "lastModifiedDate": "2016-12-29T10:59:18.000Z",
         "manageableState": "unmanaged",
         "type": "ApexClass",
         "mmState": "clean"
@@ -77,7 +77,7 @@
         "id": "01q24000000fk7gAAA",
         "lastModifiedById": "00524000001SdIaAAK",
         "lastModifiedByName": "Iryna Zasikan",
-        "lastModifiedDate": "2016-12-28T13:00:30.000Z",
+        "lastModifiedDate": "2016-12-29T11:08:13.000Z",
         "manageableState": "unmanaged",
         "type": "ApexTrigger",
         "mmState": "clean"

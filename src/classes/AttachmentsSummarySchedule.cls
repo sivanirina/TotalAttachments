@@ -1,6 +1,6 @@
 global class AttachmentsSummarySchedule implements Schedulable {
-	global void execute(SchedulableContext  ctx) {        
-        AttachmentsSummary rollupSummary = new AttachmentsSummary();
-		rollupSummary.Recalculate();		
-	}   
+    global void execute(SchedulableContext  ctx) {
+        AttachmentsSummary totalAttachments = new AttachmentsSummary();
+		    totalAttachments.Recalculate();
+    }
 }
